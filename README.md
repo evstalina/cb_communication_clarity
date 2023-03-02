@@ -17,6 +17,8 @@ Tikhonov.csv - морфологический словарь русского я
 
 Testing_text.txt - тестовый файл для оценки
 
+readability_simple_bot.ipynb - автономный простой робот для оценки удобочитаемости только на основе средней длины слов и предложений
+
 ЦИТИРОВАНИЕ:
 Evstigneeva, A. and Sidorovskiy, M. (2021). Assessment of Clarity of Bank of Russia Monetary Policy Communication by Neural Network Approach. 
 Russian Journal of Money and Finance, 80(3), pp. 3–33. doi: 10.31477/rjmf.202103.03
