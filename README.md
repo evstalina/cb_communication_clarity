@@ -21,6 +21,8 @@ std_scaler.bin - внутренний словарь
 
 readability_simple_bot.ipynb - автономный простой робот для оценки удобочитаемости только на основе средней длины слов и предложений
 
+Архив с ru_core_news_lg - https://disk.yandex.ru/d/0w-gKVZkYOfA0Q 
+
 ЦИТИРОВАНИЕ:
 Evstigneeva, A. and Sidorovskiy, M. (2021). Assessment of Clarity of Bank of Russia Monetary Policy Communication by Neural Network Approach. 
 Russian Journal of Money and Finance, 80(3), pp. 3–33. doi: 10.31477/rjmf.202103.03
